@@ -1,5 +1,5 @@
-# OpticAI
-Ferramenta inteligente para análise e combate ao vandalismo, garantindo a segurança da rede com inteligência artificial. Análise preditiva e resposta a incidentes em redes de fibra óptica.
+# OpticAI - Analisador Inteligente de Vandalismo
+O nome da aplicação foi criado inicialmente como Optic Eye, mas a similaridade na pronúncia de EYE (em inglês) com AI (em português) deu origem ao nome atual OpticAI, que pretende ser uma ferramenta inteligente para análise e combate ao vandalismo, garantindo a segurança da rede com inteligência artificial. Análise preditiva e resposta a incidentes em redes de fibra óptica.
 
 Analisador Inteligente de Relatos de Vandalismo em Redes de Fibra Óptica
 Imersão IA 2025 - Alura & Google
